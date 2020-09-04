@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="txtTitulo">Encuesta primer parcial</string>
+    <string name="btnNuevoEncuestado">NUEVO ENCUESTADO</string>
+    <string name="btnListaEncuestado">LISTA ENCUESTADO</string>
+    <string name="txtTitulo2">ENCUESTA ALIMENTICIA</string>
+    <string name="txtNombre">Nombre:</string>
+    <string name="txtEdad">Edad:</string>
+    <string name="btnListarAlimentos">LISTAR ALIMENTOS</string>
+    <string name="btnProcesar">Procesar</string>
+    <string name="txtAlimentos">Alimentos:</string>
+
+    <string name="txtNombre1">Alberto Adonay Ama Caravantes</string>
+    <string name="txtNombre2">Kevin Antonio Magaña Monrroy</string>
+</resources>
